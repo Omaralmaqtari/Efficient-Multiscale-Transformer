@@ -1,4 +1,4 @@
-# EMT-Efficient-Multiscale-Transformer
+# Efficient-Multiscale-Transformer (EMT)
 
 This repository is the official implementation of the proposed architecture in the paper "Transformer-Based Thin Crack Segmentation: An Efficient Multiscale Approach for Automatic Visual Inspection".
 
