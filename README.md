@@ -20,4 +20,4 @@ The proposed model was trained and tested on the largest crack dataset, namely "
 9. matplotlib 3.8.0
 
 ## Cite this article
-`Al-maqtari, O., Peng, B., Al-Huda, Z. et al. Transformer-based thin crack segmentation: an efficient multiscale approach for automatic visual inspection. SIViP (2024). https://doi.org/10.1007/s11760-024-03478-6`
+Al-maqtari, O., Peng, B., Al-Huda, Z. et al. Transformer-based thin crack segmentation: an efficient multiscale approach for automatic visual inspection. SIViP (2024). https://doi.org/10.1007/s11760-024-03478-6
