@@ -6,6 +6,8 @@ This repository is the official implementation of the proposed architecture in t
 
 The proposed model was trained and tested on the largest crack dataset, namely "Crack11k": (https://www.kaggle.com/datasets/lakshaymiddha/crack-segmentation-dataset/data)
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Omaralmaqtari/Efficient-Multiscale-Transformer/blob/main/Model%20Architecture.png)?raw=true)
+
 ## Requirements
 `python 3.11.7`
 `pytorch 2.2.0`
